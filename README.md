@@ -1,5 +1,7 @@
 
-## Skymrket - your own marketplase
+# My own marketplase
+
+**This work is a backend part for an ad site.**
 
 How to launch project locally using docker for every service
 Project is set to start, command: docker-compose up --build -d
