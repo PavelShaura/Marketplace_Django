@@ -3,7 +3,7 @@
 
 **This work is a backend part for an ad site.**
 
-##The backend part of the project involves the implementation of the following functionality:
+## The backend part of the project involves the implementation of the following functionality:
 
 - Authorization and authentication of users.
 - Distribution of roles between users (user and admin).
