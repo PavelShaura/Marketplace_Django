@@ -1,5 +1,5 @@
 
-# My own marketplase
+# Marketplase project(DRF, PostgresQL)
 
 **This work is a backend part for an ad site.**
 
